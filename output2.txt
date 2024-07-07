@@ -1,0 +1,8 @@
+Best Hyperparameters for MLP: {'activation': 'logistic', 'alpha': 0.006068501579464871, 'hidden_layer_sizes': (100,), 'learning_rate': 'adaptive'}
+Test Set Performance Metrics for MLP:
+Accuracy: 0.9561
+Precision: 0.975
+Recall: 0.907
+F1 Score: 0.9398
+Confusion Matrix for MLP: [[70  1]
+ [ 4 39]]
